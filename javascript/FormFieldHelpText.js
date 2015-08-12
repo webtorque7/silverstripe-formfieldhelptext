@@ -2,10 +2,12 @@
 	$.entwine('ss', function($){
 		$('.field label.right, .field span.description').entwine({
 			onadd:function() {
-				this.hide();
 				var field = this.closest('.field');
 
-				if (!field.hasClass('checkbox')) field.addClass('help-text');
+				if (!field.hasClass('checkbox')) {
+					this.hide();
+					field.addClass('help-text');
+				}
 			}
 		});
 
