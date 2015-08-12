@@ -1,5 +1,5 @@
 {
-    "name": "webtorque7/silverstripe-formfieldhelptext",
+    "name": "webtorque7/formfieldhelptext",
     "description": "Adds hover help text to form fields",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "module", "help"],
