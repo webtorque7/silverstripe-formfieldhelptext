@@ -1,6 +1,6 @@
 (function($){
 	$.entwine('ss', function($){
-		$('.field label.right, .field.span.description').entwine({
+		$('.field label.right, .field span.description').entwine({
 			onadd:function() {
 				this.hide();
 				var field = this.closest('.field');
