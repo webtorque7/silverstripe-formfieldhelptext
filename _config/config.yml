@@ -1,0 +1,5 @@
+LeftAndMain:
+  extra_requirements_javascript:
+    - 'formfieldhelptext/javascript/FormFieldHelpText.js'
+  extra_requirements_css:
+    - 'formfieldhelptext/css/FormFieldHelpText.css'

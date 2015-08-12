@@ -1,0 +1,16 @@
+{
+    "name": "webtorque7/silverstripe-formfieldhelptext",
+    "description": "Adds hover help text to form fields",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "module", "help"],
+    "require": {
+        "silverstripe/framework": "3.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Conrad",
+            "email": "conrad@webtorque.co.nz"
+        }
+    ]
+}
